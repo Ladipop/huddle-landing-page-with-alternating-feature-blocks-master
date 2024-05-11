@@ -69,7 +69,7 @@ body {
   letter-spacing: 0.5px;
   transition: all 0.3s ease-in-out;
   box-shadow: 3px 3px 7px -3px rgba(0, 0, 0, 0.25);
-  font-size: 0.65rem;
+  font-size: 0.75rem;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -326,7 +326,7 @@ body {
 }
 .attribution a:link,
 .attribution a:visited {
-  color: blue;
+  color: var( --Very-Pale-Cyan);
   text-decoration: none;
 }
 
@@ -596,7 +596,7 @@ body {
   }
   .nav-button {
     padding: 0.15rem 1rem;
-    font-size: 0.45rem;
+    font-size: 0.55rem;
     letter-spacing: 1px;
     font-weight: var(--Medium-Font-Weight);
   }
