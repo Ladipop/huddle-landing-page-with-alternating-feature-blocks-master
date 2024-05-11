@@ -637,7 +637,7 @@ body {
   .footer-container-1 {
     gap: 0.7rem;
   }
-  .unordered-lists {
+  .unordered-lists,.footer-container {
     gap: 0.5rem;
   }
   .Location-text {
