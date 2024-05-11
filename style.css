@@ -598,8 +598,9 @@ body {
     gap: 2rem;
     padding-top: 7rem;
     padding-bottom: 7rem;
-    
   }
+.header-img:hover {
+ transform: rotateZ(3deg) scale(1.1);
   .header-header {
     font-size: 1.4rem;
   }
