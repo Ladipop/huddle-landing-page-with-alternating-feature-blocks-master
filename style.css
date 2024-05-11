@@ -582,6 +582,7 @@ body {
 @media all and (max-width: 431px) {
   .website-logo {
     width: 7rem;
+      margin-top: 6rem;
   }
   .section {
     padding: 1.5rem;
@@ -651,7 +652,7 @@ body {
   }
 }
 
-@media all and (max-width: 431px) {
+@media all and (max-width: 381px) {
   .cta-header {
     font-size: 0.8rem;
   }
