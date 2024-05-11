@@ -143,7 +143,7 @@ body {
 }
 .header-img:hover,
 .img:hover {
-  transform: rotateZ(7deg) scale(1.1);
+  transform: rotateZ(6deg) scale(1.1);
 }
 
 /* *****************Main page Styling***************** */
@@ -597,7 +597,7 @@ body {
   .nav-button {
     padding: 0.15rem 1rem;
     font-size: 0.55rem;
-    letter-spacing: 1px;
+    letter-spacing: 0.6px;
     font-weight: var(--Medium-Font-Weight);
   }
   .header {
