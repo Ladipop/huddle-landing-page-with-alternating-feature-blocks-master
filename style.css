@@ -319,6 +319,7 @@ body {
   font-size: 0.8rem;
   text-align: center;
   margin-top: 5rem;
+  color: grey;
   font-weight: var(--Tiny-Font-Weight);
 }
 .attribution a:link {
@@ -326,7 +327,7 @@ body {
 }
 .attribution a:link,
 .attribution a:visited {
-  color: var( --Very-Pale-Cyan);
+  color: grey;
   text-decoration: none;
 }
 
