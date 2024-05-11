@@ -636,10 +636,10 @@ body {
   }
   .footer-container-1 {
     gap: 0.7rem;
+    margin-bottom: 1rem;
   }
-  .unordered-lists,
   .footer-container {
-    gap: 0.5rem;
+    gap: 1rem;
   }
   .Location-text {
     line-height: 1.6;
