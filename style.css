@@ -628,7 +628,7 @@ body {
   }
   .footer {
     font-size: 0.7rem;
-    padding-top: 6rem;
+    padding-top: 6rem !important;
     padding-right: 1.5rem;
   }
   .footer-container-1 {
