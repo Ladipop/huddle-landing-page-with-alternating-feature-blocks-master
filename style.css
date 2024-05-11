@@ -582,7 +582,9 @@ body {
 @media all and (max-width: 431px) {
   .website-logo {
     width: 7rem;
-      margin-top: 6rem;
+  }
+    .footer-logo{
+     margin-top: 6rem;
   }
   .section {
     padding: 1.5rem;
