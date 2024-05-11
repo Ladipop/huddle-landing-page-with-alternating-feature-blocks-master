@@ -326,13 +326,13 @@ body {
 }
 .attribution a:link,
 .attribution a:visited {
-  color: var(--Pink);
+  color: var(--White);
   text-decoration: none;
 }
 
 .attribution a:active,
 .attribution a:hover {
-  color: var(--Very-Pale-Cyan);
+  color: var(--Pink);
   text-decoration: underline;
   text-decoration-skip-ink: none;
   text-underline-offset: 5px;
