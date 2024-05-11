@@ -607,6 +607,7 @@ body {
   }
 .header-img:hover {
  transform: rotateZ(3deg) scale(1.1);
+}
   .header-header {
     font-size: 1.4rem;
   }
@@ -637,7 +638,6 @@ body {
   }
   .footer-container-1 {
     gap: 0.7rem;
-    margin-bottom: 1rem;
   }
   .footer-container {
     gap: 1rem;
