@@ -326,7 +326,7 @@ body {
 }
 .attribution a:link,
 .attribution a:visited {
-  color: var(--White);
+  color: blue;
   text-decoration: none;
 }
 
