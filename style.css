@@ -597,6 +597,8 @@ body {
   .header {
     gap: 2rem;
     padding-top: 7rem;
+    padding-bottom: 5rem;
+    
   }
   .header-header {
     font-size: 1.4rem;
