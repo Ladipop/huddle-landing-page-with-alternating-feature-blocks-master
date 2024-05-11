@@ -424,6 +424,7 @@ body {
   .footer-container-1 {
     width: 70%;
         gap: 1rem;
+    margin-bottom: 1rem;
   }
   .footer-nav-3 {
     align-self: center;
