@@ -589,6 +589,9 @@ body {
     .footer-logo{
      margin-top: 6rem;
   }
+  .unordered-lists{
+  font-size: 0.6rem;
+  }
   .section {
     padding: 1.5rem;
   }
