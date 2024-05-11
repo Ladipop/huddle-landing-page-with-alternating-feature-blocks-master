@@ -594,7 +594,7 @@ body {
     padding: 0.15rem 1rem;
     font-size: 0.45rem;
     letter-spacing: 1px;
-    font-weight: var(--Tiny-Font-Weight);
+    font-weight: var(--Medium-Font-Weight);
   }
   .header {
     gap: 2rem;
